@@ -9,3 +9,6 @@ view is the basic building block of UI: a small rectangular element on the scree
 React Native Lifecycle
 
 They are born (creation), grow (updating), and finally, die (deletion). This is called the component lifecycle. For each phase of a component's life, React Native provides access to certain built-in events/methods called lifecycle hooks or methods.
+
+React Native provides hooks, methods that get called automatically at each point in the lifecycle, that give you good control of what happens at the point it is invoked. A good understanding of these hooks will give you the power to effectively control and manipulate what goes on in a component throughout its lifetime
+
